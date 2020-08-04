@@ -1,14 +1,14 @@
 [
   {
-    "name": "Account Surfer",
+    "name": "CGPA Calculator BD",
     "logo": "/logos/as.svg",
-    "description": "Quickly switch between accounts and browsers.",
-    "link": "/posts/handle-chrome-profiles-with-account-surfer"
+    "description": "Calculate CGPA of any bangladeshi universities",
+    "link": ""
   },
   {
-    "name": "Trello Bookmark",
+    "name": "Upcoming projects...",
     "logo": "/logos/trello-bookmark.svg",
-    "description": "Store your bookmarks as Trello Cards.",
-    "link": "/posts/trello-plus-gtd-equals-trello-bookmark"
+    "description": "",
+    "link": ""
   }
 ]
