@@ -1,13 +1,21 @@
 ---
 template: post
-title: Introduction to myself blog
+title: Created First blog using Gatsby + React+ Ant
 slug: /posts/intro-blog
 draft: false
-priority: 3
+priority: 5
 date: 2020-08-04T04:20:00.393Z
-description: This is new blog post
-category: gaming
+description: First blog post
+category: projects
 tags:
-  - gaming
+  - blog
+  - react
 ---
-this is my blog post
+Created my first blog using Gatsby.
+
+**Features:**
+
+1. Stateless, server-less content management
+2. Faster rendering, featured with admin panel
+3. Easy deployment with netlify
+4. Content management with Netlify-CMS
